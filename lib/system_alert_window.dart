@@ -10,6 +10,7 @@ export 'models/system_window_margin.dart';
 export 'models/system_window_padding.dart';
 export 'models/system_window_text.dart';
 
+import 'package:video_player/video_player.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:system_alert_window/models/system_window_body.dart';
